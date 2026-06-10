@@ -1,5 +1,10 @@
 # freight-quote-api
 
+## Live Demo
+
+A running instance with interactive Swagger UI is available at:
+https://freight-quote-api.onrender.com/docs
+
 A fictional freight quotation REST API built as a portfolio demo. It does **not**
 integrate with any real carrier — quotes are calculated with a simple, deterministic
 formula. The goal is to showcase a clean, production-style FastAPI codebase: layered
